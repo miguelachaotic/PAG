@@ -5,7 +5,8 @@ Esta práctica consiste en crear un modelo 3D de un tanque.
 Para instalar el proyecto, debe funcionar sobre un servidor web. Recomiendo usar el IDE Webstorm, de JetBrains ya que proporciona un servidor web por defecto al visualizar ficheros HTML. Con alguna extensión de Visual Studio Code debería funcionar también.
 
 Para ejecutarlo, hay que abrir el fichero HTML con el servidor web.
-Se puede usar este comando \n
+Se puede usar este comando   
+
 `git clone https://github.com/miguelachaotic/PAG` para clonar el repositorio en local.
 
 También se podrá visualizar en la siguiente página: 
