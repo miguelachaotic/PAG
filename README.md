@@ -9,7 +9,7 @@ Se puede usar este comando
 
 `git clone https://github.com/miguelachaotic/PAG` para clonar el repositorio en local.
 
-También se podrá visualizar en la siguiente página: 
+También se podrá visualizar en la siguiente página: https://miguelachaotic.github.io/PAG/src/index.html
 
 ## Controles del modelo
 En la parte superior izquierda se muestra un pequeño recuadro que indica en qué modo te encuentras. El modo inicial es el modo cámara.
