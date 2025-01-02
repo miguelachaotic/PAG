@@ -20,8 +20,6 @@ roughFoot.repeat.set(10, 1);
 roughFoot.wrapS = THREE.RepeatWrapping;
 roughFoot.wrapT = THREE.RepeatWrapping;
 
-const gearTexture = textureLoader.load('./textures/gear.png');
-
 const footMaterial = new THREE.MeshPhysicalMaterial({
     color: 0x323232,
     reflectivity: 0.3,
@@ -30,9 +28,7 @@ const footMaterial = new THREE.MeshPhysicalMaterial({
     roughnessMap: roughFoot
 });
 
-const gearMaterial = new THREE.MeshPhysicalMaterial({
-    map: gearTexture
-})
+
 
 const bodyMaterial = new THREE.MeshPhysicalMaterial({
     color: 0x555555,
