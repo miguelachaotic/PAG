@@ -1,6 +1,10 @@
 # Tercera Práctica de Programación de Aplicaciones Gráficas
 Esta práctica consiste en crear un modelo 3D de un tanque.
 
+## Visualización en la Web
+
+Puedes hacer click <a href="https://miguelachaotic.github.io/PAG/src/index.html" target="_blank">aquí</a> para visualizarlo en la Web.
+
 ## Localización del código
 
 Todo el código se encuentra dentro de la carpeta [src](./src). Dentro de esta carpeta
@@ -35,10 +39,6 @@ Los controles de la cámara son WASD para moverse hacia adelante, izquierda, atr
 Si se pulsa la barra espaciadora se cambia el texto de la parte superior izquierda a "Modo tanque". Si se vuelve a pulsar se vuelve a "Modo cámara".
 
 En el modo tanque los controles son los siguientes: WS para mover el tanque hacia adelante y hacia atrás respectivamente, AD para girar hacia izquierda y derecha, y las flechas izquierda y derecha para rotar la torreta del tanque.
-
-## Visualización en la Web
-
-Puedes hacer click <a href="https://miguelachaotic.github.io/PAG/src/index.html" target="_blank">aquí</a> para visualizarlo en la Web.
 
 ## Bibliotecas usadas
 
