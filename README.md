@@ -9,8 +9,6 @@ Se puede usar este comando
 
 `git clone https://github.com/miguelachaotic/PAG` para clonar el repositorio en local.
 
-También puedes hacer click <a href="https://miguelachaotic.github.io/PAG/src/index.html" target="_blank">aquí</a> para visualizarlo en la Web.
-
 ## Controles del modelo
 En la parte superior izquierda se muestra un pequeño recuadro que indica en qué modo te encuentras. El modo inicial es el modo cámara.
 Los controles de la cámara son WASD para moverse hacia adelante, izquierda, atrás y derecha respectivamente, y QE para moverse hacia arriba y abajo respectivamente.
@@ -18,4 +16,8 @@ Los controles de la cámara son WASD para moverse hacia adelante, izquierda, atr
 Si se pulsa la barra espaciadora se cambia el texto de la parte superior izquierda a "Modo tanque". Si se vuelve a pulsar se vuelve a "Modo cámara".
 
 En el modo tanque los controles son los siguientes: WS para mover el tanque hacia adelante y hacia atrás respectivamente, AD para girar hacia izquierda y derecha, y las flechas izquierda y derecha para rotar la torreta del tanque.
+
+## Visualización en la Web
+
+Puedes hacer click <a href="https://miguelachaotic.github.io/PAG/src/index.html" target="_blank">aquí</a> para visualizarlo en la Web.
 
