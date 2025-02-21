@@ -13,11 +13,11 @@ const userPosition = {x: 0, y: 0, z: 0};
 let tankOrientation = 0;
 
 const cameraMovement = { forward: false, backward: false, left: false, right: false, up: false, down: false };
-const movementSpeed = 0.08;
+const movementSpeed = 0.15;
 const tankMovement = { forward: false, backward: false, left: false, right: false };
-const tankSpeed = 0.05;
+const tankSpeed = 0.12;
 const turretRotation = {left: false, right: false};
-const turretSpeed = 0.13;
+const turretSpeed = 0.19;
 
 let isViewModeActive = true;
 
